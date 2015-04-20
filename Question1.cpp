@@ -22,11 +22,11 @@ int main(int argc, char *argv[]) {
 
 	// 1.3 switch to the "master" branch, uncomment the following four lines and make a commit
 	 string name;
-	cout << "Please enter your name: ";
+	cout << "Please enter your nasfsdme: ";
   cin >> name;
 	 cout << "Hello, " << name << endl;
 
-	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
+	// 1.4 merge branch "hello" into "masterghfd" keeping ALL of the code added so far
 
 	// 1.5 make a merge commit 
 
