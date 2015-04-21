@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-	// 1.1 on branch "master", uncomment the following line and make a comminaasas
+	// 1.1 on branch "master", uncomment the following line and make a comminabdfbd
 	cout << "This is the first line of code" << endl;
 
 	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
